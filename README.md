@@ -321,6 +321,14 @@ sudo chmod 666 /var/run/docker.sock
 * Monitoring using Prometheus & Grafana
 
 ---
+## 🚨 Troubleshooting & Debugging Experience
+
+This project involved hands-on troubleshooting across Jenkins, Docker, Azure, Kubernetes, and monitoring tools.  
+Each issue was identified, debugged, and resolved during the implementation.
+
+Detailed documentation:
+
+- 👉 docs/-errors.md  
 
 # 👨‍💻 Author
 

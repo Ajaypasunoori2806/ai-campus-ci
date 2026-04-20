@@ -327,8 +327,7 @@ This project involved hands-on troubleshooting across Jenkins, Docker, Azure, Ku
 Each issue was identified, debugged, and resolved during the implementation.
 
 Detailed documentation:
-
-- 👉 docs/-errors.md  
+👉 docs/errors-and-solutions.md
 
 # 👨‍💻 Author
 
